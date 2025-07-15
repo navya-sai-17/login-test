@@ -41,7 +41,7 @@
 </head>
 <body>
   <header>
-    <h1>Welcome to My New Website</h1>
+    <h1>Welcome to My Azure Website</h1>
   </header>
   <main>
     <p>This site is powered by HTML, CSS, and JavaScript—all in one file!</p>
